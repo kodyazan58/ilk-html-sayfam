@@ -1,0 +1,28 @@
+<DOCTYPLE html>
+<html>
+<body>
+ <title>Kasımpatı Çiçeği</title>
+ <style>
+   <body> (
+        background- color:
+   yellow;
+        display: flex;
+        justify-content:
+   center;
+         align-items: center;
+         height:100px;
+         cursor: pointer;
+    )
+   .flower::before, .flower::a
+   fter (
+          content: ";
+          position: absolute;
+          width: 100px;
+          height: 100px
+          background-color:
+   orange;
+          border-radius: 50%;
+    )
+    .flower::after  (
+        top: 0
+   
